@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.egg-info/
+dist/
+build/
+.mypy_cache/
+data/
+*.db
+*.db-wal
+*.db-shm
+xray.json
